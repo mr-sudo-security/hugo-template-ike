@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://mr-sudo-security.github.io/<repositoryname>"
+baseURL = "https://mr-sudo-security.github.io/myron-site-1/"
 languageCode = "en-us"
 title = "Gosaas | hugo saas landing template"
 theme = "gosaas-hugo"
