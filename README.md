@@ -1,2 +1,2 @@
 # Hugo template 
-To create a new hugo site, create a fork of this and make the changes you need.
+To create a new hugo site with this repository, you have to import it as a template.
